@@ -1,7 +1,5 @@
 '''
 Abbosbek Ahmadjonov
-CSC 110
-Project 6
 This program has four functions 
 that works accordingly below by the 
 given instrucions(information) and rules
