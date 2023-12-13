@@ -1,4 +1,4 @@
-# Day 11. Blackjack game:
+# Blackjack game:
 # The deck is unlimited in size.
 # The Jack/Queen/King all count as 10.
 # The Ace can count as 11 or 1.
