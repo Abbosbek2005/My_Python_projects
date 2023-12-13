@@ -7,6 +7,7 @@
 # The cards in the list have equal probability of being drawn
 import random
 def deal_card():
+    # gets the cards (shuffle it)
     cards=[11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
     random.choice(cards)
     return cards
